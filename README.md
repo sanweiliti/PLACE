@@ -2,6 +2,7 @@
 Official Pytorch implementation for 2020 3DV paper "PLACE: Proximity Learning of Articulation and Contact in 3D Environments"
 
 [[Project]](https://sanweiliti.github.io/PLACE/PLACE.html) [[Paper]](https://arxiv.org/pdf/2008.05570.pdf)
+[[2-min Video]](https://www.youtube.com/watch?v=0K6ThmvYFgw&t=5s) [[7-min Video]](https://www.youtube.com/watch?v=zJ1hbtMHGrw&t=1s)
 
 
 <img src="images/teaser.jpg" width = 900 align=middle>
