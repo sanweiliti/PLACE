@@ -11,8 +11,8 @@ Official Pytorch implementation for 2020 3DV paper "PLACE: Proximity Learning of
 ## Installation
 The code has been tested on Ubuntu 18.04, python 3.6 and CUDA 10.0. Please install the following packages/models following their instructions:
  * install [SMPL-X](https://sanweiliti.github.io/PLACE/PLACE.html), and download [SMPL-X models](https://smpl-x.is.tue.mpg.de/downloads)
- * install [Chamfer Pytorch](https://github.com/ThibaultGROUEIX/ChamferDistancePytorch/tree/719b0f1ca5ba370616cb837c03ab88d9a88173ff) (source code included in the our repo, `chamfer_pytorch` folder)
- * download the [VPoser model](https://smpl-x.is.tue.mpg.de/downloads) (source code included in the our repo, `human_body_prior` folder)
+ * install [Chamfer Pytorch](https://github.com/ThibaultGROUEIX/ChamferDistancePytorch/tree/719b0f1ca5ba370616cb837c03ab88d9a88173ff) (source code included in our repo, `chamfer_pytorch` folder)
+ * download the [VPoser model](https://smpl-x.is.tue.mpg.de/downloads) (source code included in our repo, `human_body_prior` folder)
  
 Then run `pip install -r requirements.txt` to install other dependencies.
 It is noticed that different versions of `smplx` and `VPoser` will influece generation results.
