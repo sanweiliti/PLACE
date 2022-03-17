@@ -3,7 +3,7 @@ numpy==1.19.1
 open3d==0.10.0.0
 scipy==1.5.0
 scikit-learn==0.20.3
-smplx==0.1.13
+smplx==0.1.26
 tensorboard==2.2.1
 tensorboardX==2.1
 torch==1.4.0
